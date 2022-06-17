@@ -1,7 +1,7 @@
 # analysis_acceptance_virtual_coach_satisfaction
 This repo contains outcomes across all stages of the thematic analysis conducted on the reasons to be satisfied or dissatisfied when using the virtual coach.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6619354.svg)](https://doi.org/10.5281/zenodo.6619354)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6658170.svg)](https://doi.org/10.5281/zenodo.6658170)
 
 ## License
 
